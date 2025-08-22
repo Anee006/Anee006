@@ -56,3 +56,7 @@ When I'm not coding you'll find me reading a novel!
 ## 🔗 LET'S CONNECT
 - https://www.linkedin.com/in/aneesha-siby-166b8a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - aneesha.sibyj@gmail.com
+
+---
+
+<p align="center">💡 <i>Stay curious, keep building, and let your ideas shape the future.</i> </p>
