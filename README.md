@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Aneesha Siby
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&center=true&vCenter=true&width=600&height=50&color=FF69B4&duration=4000&pause=1000&lines=Computer+Science+Student;DSA+Explorer;Web+Dev+Enthusiast;Curious+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&width=600&height=50&color=FF69B4&duration=4000&pause=1000&lines=Computer+Science+Student;DSA+Explorer;Web+Dev+Enthusiast;Curious+Learner"/>
 </h1>
 
 ## 🌱 ME
