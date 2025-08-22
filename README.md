@@ -37,11 +37,9 @@ I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly
 - Learn Full Stack Web Development
 - Dive into Data Science, AI and ML in future
 
-![Aneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anee006&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anee006&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anee006&layout=compact&theme=tokyonight)
 
 ## 🔗 LET'S CONNECT
 - https://www.linkedin.com/in/aneesha-siby-166b8a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
