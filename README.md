@@ -5,10 +5,14 @@
 </h1>
 
 ## 🌱 ME
-I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly learning new skills and pushing myself toward excellence.
+I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly learning new skills and pushing myself toward excellence. 
+When I'm not coding you'll find me reading a novel!
+
 - 💻 Skilled in C, C++, Python, Java, MySQL, HTML, CSS, JavaScript
 - ⚛ Experience in working with Git and GitHub
 - 🌐 Familiar with open source contributions
+
+---
 
 ## LANGUAGES
 <p align="left">
@@ -22,12 +26,16 @@ I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
 </p>
 
+---
+
 ## LIBRARIES AND TOOLS
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="40" height="40"/> 
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
+
+---
 
 ## 🚀 CURRENTLY FOCUSING ON
 - Sharpening DSA in C++
@@ -37,9 +45,13 @@ I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly
 - Learn Full Stack Web Development
 - Dive into Data Science, AI and ML in future
 
+---
+
+## GITHUB STATS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anee006&theme=tokyonight&hide_border=false)
 
+---
 
 ## 🔗 LET'S CONNECT
 - https://www.linkedin.com/in/aneesha-siby-166b8a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
