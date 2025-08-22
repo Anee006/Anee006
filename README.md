@@ -38,7 +38,7 @@ I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly
 - Dive into Data Science, AI and ML in future
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anee006&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anee006&theme=tokyonight&hide_border=false)
 
 
 ## 🔗 LET'S CONNECT
