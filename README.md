@@ -32,7 +32,7 @@ When I'm not coding you'll find me reading a novel!
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="40" height="40"/> 
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="40" height="40"/>
 </p>
 
 ---
