@@ -9,8 +9,9 @@ I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly
 When I'm not coding you'll find me reading a novel!
 
 - 💻 Skilled in C, C++, Python, Java, MySQL, HTML, CSS, JavaScript
-- ⚛ Experience in working with Git and GitHub
-- 🌐 Familiar with open source contributions
+- ⚛ Experienced in working with Git and GitHub
+- 🌐 Contributed to open source projects
+- 🧩 Participated in coding contests and hackathons
 
 ---
 
@@ -39,11 +40,11 @@ When I'm not coding you'll find me reading a novel!
 
 ## 🚀 CURRENTLY FOCUSING ON
 - Sharpening DSA in C++
-- Contributing to open source projects under GSSOC'25
+- Data Analytics using Python
 
 ## 🎯 NEXT STEP
 - Learn Full Stack Web Development
-- Dive into Data Science, AI and ML in future
+- Explore AI/ML in depth
 
 ---
 
