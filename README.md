@@ -5,11 +5,11 @@
 </h1>
 
 ## 🌱 ME
-I’m Aneesha Siby, a CSE student passionate about coding and growth, constantly learning new skills and pushing myself toward excellence. 
+I’m a BTech CSE student passionate about coding and growth, with a keen interest in Data Analytics and AI/ML, constantly learning new skills and pushing myself towards excellence. 
 When I'm not coding you'll find me reading a novel!
 
 - 💻 Skilled in C, C++, Python, Java, MySQL, HTML, CSS, JavaScript
-- ⚛ Experienced in working with Git and GitHub
+- ⚛ Experienced in working with version control tools
 - 🌐 Contributed to open source projects
 - 🧩 Participated in coding contests and hackathons
 
@@ -33,17 +33,25 @@ When I'm not coding you'll find me reading a novel!
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="50" height="50"/> 
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+
+  
 </p>
 
 ---
 
 ## 🚀 CURRENTLY FOCUSING ON
-- Sharpening DSA in C++
+- Sharpening DSA in C++ and Java
 - Data Analytics using Python
+- AI/ML using Python
 
 ## 🎯 NEXT STEP
-- Learn Full Stack Web Development
+- Sharpen my Data Analytical skills 
 - Explore AI/ML in depth
 
 ---
