@@ -11,7 +11,7 @@ When I'm not coding you'll find me reading a novel!
 - 💻 Skilled in C, C++, Python, Java, MySQL, HTML, CSS, JavaScript
 - ⚛ Experienced in working with version control tools
 - 🌐 Contributed to open source projects
-- 🧩 Participated in coding contests and hackathons
+- 🧩 Participated in competitive coding contests and hackathons
 
 ---
 
