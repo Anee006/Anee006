@@ -48,7 +48,7 @@ When I'm not coding you'll find me reading a novel!
 ---
 
 ## 🚀 CURRENTLY FOCUSING ON
-- Sharpening DSA in C++ and Java
+- Sharpening DSA concepts
 - Data Analytics using Python
 - AI/ML using Python
 
